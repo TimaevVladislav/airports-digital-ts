@@ -1,0 +1,4 @@
+
+.dropdown {
+    @apply absolute left-0 right-0 h-[200px] top-[42px] shadow-md bg-white overflow-y-scroll
+}
