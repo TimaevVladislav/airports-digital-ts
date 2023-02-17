@@ -29,7 +29,6 @@ export function AirportFilter() {
     const clearFilter = () => {
         setHasFilter(false)
         setFilter({ type: "", country: "", region: "" })
-        console.log(filter)
     }
 
 
